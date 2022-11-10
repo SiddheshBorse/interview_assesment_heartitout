@@ -418,7 +418,7 @@ label>input[type="checkbox"]:checked+* {
 
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 500px) {
     legend {
         font-size: 1rem;
     }
