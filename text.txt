@@ -1,0 +1,11 @@
+<div class="dropdown">
+            <label for="ddselect" id="ddselecthead">Lorem ipsum dolor sit amet</label>
+            <select class="form-select" name="ddselect" id="ddselect">
+                <option value="dd1">Drop Down Option</option>
+                <option value="dd2">Drop Down Option</option>
+                <option value="dd3">Drop Down Option</option>
+                <option value="dd4">Drop Down Option</option>
+                <option value="dd5">Drop Down Option</option>
+                <option value="dd6">Drop Down Option</option>
+            </select>
+        </div>
