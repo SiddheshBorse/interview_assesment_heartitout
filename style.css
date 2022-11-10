@@ -494,4 +494,7 @@ label>input[type="checkbox"]:checked+* {
     #caron,#carop{
         border-radius: 1rem;
     }
+    .section1{
+        padding: 1rem;
+    }
 }
